@@ -2,13 +2,12 @@
 Please email NASA-AMMOS organization administrators, Aniwat.Nik.Sheurpukdi@jpl.nasa.gov (AKA: Nik) and shawn.n.nguyen@jpl.nasa.gov, with the details below.
 
 - Repository name.
-- Repository description. 
-- Is it public or private repo.
+- Repository description.
+- Is this repo public or private?
 - GitHub.com username and email of the person/persons to be member of the repo and their roles as described below (Admin / Maintain / Triage / Write / Read).
 - Roles descriptions.
   
-Read: 
-Recommended for non-code contributors who want to view or discuss your project.
+Read: Recommended for non-code contributors who want to view or discuss your project.
 
 Triage: Recommended for contributors who need to manage issues and pull requests without write access.
 
