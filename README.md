@@ -1,4 +1,4 @@
-# How to request a new Repository under NASA-AMMOS organization.
+# How to request a new Repository under the NASA-AMMOS organization.
 Please email NASA-AMMOS organization administrators, Aniwat.Nik.Sheurpukdi@jpl.nasa.gov (AKA: Nik) and shawn.n.nguyen@jpl.nasa.gov, with the details below.
 
 - Repository name.
